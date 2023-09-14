@@ -1,1 +1,2 @@
-print("Hello world")
+nickTayloe = "gay"
+print(nickTayloe)
